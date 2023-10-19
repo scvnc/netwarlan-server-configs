@@ -9,7 +9,7 @@
   "Log when crafting finished (true/false)": true,
   "Log items dropped by players (true/false)": true,
   "Log output to console (true/false)": false,
-  "Rotate logs daily (true/false)": true,
+  "Rotate logs daily (true/false)": false,
   "Command list (full or short commands)": [],
   "Command list type (blacklist or whitelist)": "blacklist"
 }
