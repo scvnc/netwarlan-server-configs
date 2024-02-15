@@ -36,8 +36,8 @@
             "name" "netwar_armsrace"
             "maps"
             {
-                "ar_baggage" "0"
-                "ar_shoots" "1"
+                "ar_baggage" ""
+                "ar_shoots" ""
             }
         }
         "netwar_casual"
@@ -45,14 +45,14 @@
             "name" "netwar_casual"
             "maps"
             {
-                "de_ancient" "0"
-                "de_anubis" "1"
-                "de_dust2" "2"
-                "de_inferno" "3"
-                "de_mirage" "4"
-                "de_nuke" "5"
-                "de_overpass" "6"
-                "de_vertigo" "7"
+                "de_ancient" ""
+                "de_anubis" ""
+                "de_dust2" ""
+                "de_inferno" ""
+                "de_mirage" ""
+                "de_nuke" ""
+                "de_overpass" ""
+                "de_vertigo" ""
             }
         }
     }
