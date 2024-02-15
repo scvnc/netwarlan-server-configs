@@ -1,4 +1,4 @@
-"gamemodes_server.txt"
+"Gamemodes_Server.txt"
 {
     "gameTypes"
     {
