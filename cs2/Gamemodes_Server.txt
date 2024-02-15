@@ -1,0 +1,59 @@
+"Gamemodes_Server.txt"
+{
+    "gameTypes"
+    {
+        "classic"
+        {
+            "gameModes"
+            {
+                "casual"
+                {
+                    "mapgroupsMP"
+                    {
+                        "netwar_casual"
+                    }
+                }
+            }
+        }
+        "gungame"
+        {
+            "gameModes"
+            {
+                "armsrace"
+                {
+                    "mapgroupsMP"
+                    {
+                        "netwar_armsrace"
+                    }
+                }
+            }
+        }
+    }
+    "mapgroups"
+    {
+        "netwar_armsrace"
+        {
+            "name" "netwar_armsrace"
+            "maps"
+            {
+                "ar_baggage" "0"
+                "ar_shoots" "1"
+            }
+        }
+        "netwar_casual"
+        {
+            "name" "netwar_casual"
+            "maps"
+            {
+                "de_ancient" "0"
+                "de_anubis" "1"
+                "de_dust2" "2"
+                "de_inferno" "3"
+                "de_mirage" "4"
+                "de_nuke" "5"
+                "de_overpass" "6"
+                "de_vertigo" "7"
+            }
+        }
+    }
+}
