@@ -40,9 +40,9 @@
                 "ar_shoots" ""
             }
         }
-        "netwar_casual"
+        "mg_active"
         {
-            "name" "netwar_casual"
+            "name" "mg_active"
             "maps"
             {
                 "de_ancient" ""
