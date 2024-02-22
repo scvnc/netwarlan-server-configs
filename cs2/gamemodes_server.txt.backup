@@ -1,50 +1,35 @@
-"Gamemodes_Server.txt"
-{
-  "gameTypes"
-  {
-    "classic"
-    {
-      "gameModes"
-      {
-        "casual"
-        {
-          "mapgroupsMP"
-          {
-            mg_active"
+"Gamemodes_Server.txt" {
+  "gameTypes" {
+    "classic" {
+      "gameModes" {
+        "casual" {
+          "mapgroupsMP" {
+            "mg_active" ""
           }
         }
       }
     }
-    "gungame"
-    {
-      "gameModes"
-      {
-        "armsrace"
-        {
-          "mapgroupsMP"
-          {
-            "nw_armsrace"
+    "gungame" {
+      "gameModes" {
+        "armsrace" {
+          "mapgroupsMP" {
+            "nw_armsrace" ""
           }
         }
       }
     }
   }
-  "mapgroups"
-  {
-    "nw_armsrace"
-    {
+  "mapgroups" {
+    "nw_armsrace" {
       "name" "nw_armsrace"
-      "maps"
-      {
+      "maps" {
         "ar_baggage" ""
         "ar_shoots" ""
       }
     }
-    "mg_active"
-    {
+    "mg_active" {
       "name" "mg_active"
-      "maps"
-      {
+      "maps" {
         "de_ancient" ""
         "de_anubis" ""
         "de_dust2" ""
