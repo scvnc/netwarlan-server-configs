@@ -1,59 +1,59 @@
 "Gamemodes_Server.txt"
 {
-    "gameTypes"
+  "gameTypes"
+  {
+    "classic"
     {
-        "classic"
+      "gameModes"
+      {
+        "casual"
         {
-            "gameModes"
-            {
-                "casual"
-                {
-                    "mapgroupsMP"
-                    {
-                        "netwar_casual"
-                    }
-                }
-            }
+          "mapgroupsMP"
+          {
+            mg_active"
+          }
         }
-        "gungame"
-        {
-            "gameModes"
-            {
-                "armsrace"
-                {
-                    "mapgroupsMP"
-                    {
-                        "netwar_armsrace"
-                    }
-                }
-            }
-        }
+      }
     }
-    "mapgroups"
+    "gungame"
     {
-        "netwar_armsrace"
+      "gameModes"
+      {
+        "armsrace"
         {
-            "name" "netwar_armsrace"
-            "maps"
-            {
-                "ar_baggage" ""
-                "ar_shoots" ""
-            }
+          "mapgroupsMP"
+          {
+            "netwar_armsrace"
+          }
         }
-        "mg_active"
-        {
-            "name" "mg_active"
-            "maps"
-            {
-                "de_ancient" ""
-                "de_anubis" ""
-                "de_dust2" ""
-                "de_inferno" ""
-                "de_mirage" ""
-                "de_nuke" ""
-                "de_overpass" ""
-                "de_vertigo" ""
-            }
-        }
+      }
     }
+  }
+  "mapgroups"
+  {
+    "netwar_armsrace"
+    {
+      "name" "netwar_armsrace"
+      "maps"
+      {
+        "ar_baggage" ""
+        "ar_shoots" ""
+      }
+    }
+    "mg_active"
+    {
+      "name" "mg_active"
+      "maps"
+      {
+        "de_ancient" ""
+        "de_anubis" ""
+        "de_dust2" ""
+        "de_inferno" ""
+        "de_mirage" ""
+        "de_nuke" ""
+        "de_overpass" ""
+        "de_vertigo" ""
+      }
+    }
+  }
 }
