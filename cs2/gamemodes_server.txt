@@ -23,7 +23,7 @@
         {
           "mapgroupsMP"
           {
-            "netwar_armsrace"
+            "nw_armsrace"
           }
         }
       }
@@ -31,9 +31,9 @@
   }
   "mapgroups"
   {
-    "netwar_armsrace"
+    "nw_armsrace"
     {
-      "name" "netwar_armsrace"
+      "name" "nw_armsrace"
       "maps"
       {
         "ar_baggage" ""
