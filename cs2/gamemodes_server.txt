@@ -7,6 +7,11 @@
             "nw_casual" ""
           }
         }
+        "competitive" {
+          "mapgroupsMP" {
+            "nw_competitive" ""
+          }
+        }
       }
     }
     "gungame" {
@@ -20,13 +25,6 @@
     }
   }
   "mapgroups" {
-    "nw_armsrace" {
-      "name" "nw_armsrace"
-      "maps" {
-        "ar_baggage" ""
-        "ar_shoots" ""
-      }
-    }
     "nw_casual" {
       "name" "nw_casual"
       "maps" {
@@ -38,6 +36,25 @@
         "de_nuke" ""
         "de_overpass" ""
         "de_vertigo" ""
+      }
+    }
+    "nw_competitive" {
+      "name" "nw_competitive"
+      "maps" {
+        "de_ancient" ""
+        "de_anubis" ""
+        "de_inferno" ""
+        "de_mirage" ""
+        "de_nuke" ""
+        "de_overpass" ""
+        "de_vertigo" ""
+      }
+    }
+    "nw_armsrace" {
+      "name" "nw_armsrace"
+      "maps" {
+        "ar_baggage" ""
+        "ar_shoots" ""
       }
     }
   }
