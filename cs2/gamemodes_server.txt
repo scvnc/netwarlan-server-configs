@@ -4,7 +4,7 @@
       "gameModes" {
         "casual" {
           "mapgroupsMP" {
-            "mg_active" ""
+            "nw_casual" ""
           }
         }
       }
@@ -27,8 +27,8 @@
         "ar_shoots" ""
       }
     }
-    "mg_active" {
-      "name" "mg_active"
+    "nw_casual" {
+      "name" "nw_casual"
       "maps" {
         "de_ancient" ""
         "de_anubis" ""
