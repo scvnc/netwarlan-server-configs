@@ -35,7 +35,7 @@
         "de_mirage" ""
         "de_nuke" ""
         "de_overpass" ""
-        "de_vertigo" ""
+        "de_train" ""
       }
     }
     "nw_competitive" {
@@ -47,7 +47,7 @@
         "de_mirage" ""
         "de_nuke" ""
         "de_overpass" ""
-        "de_vertigo" ""
+        "de_train" ""
       }
     }
     "nw_armsrace" {
