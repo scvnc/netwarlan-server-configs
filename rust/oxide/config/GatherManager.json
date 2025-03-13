@@ -30,22 +30,22 @@
     "ExcavatorResourceTickRate": 3.0,
     "ExcavatorTimeForFullResources": 120.0,
     "GatherDispenserModifiers": {
-      "Tree": 10.0,
-      "Ore": 10.0,
-      "Flesh": 10.0
+      "Tree": 5.0,
+      "Ore": 5.0,
+      "Flesh": 5.0
     },
     "GatherResourceModifiers": {
-      "*": 10.0
+      "*": 5.0
     },
     "MiningQuarryResourceTickRate": 5.0,
     "PickupResourceModifiers": {
-      "*": 10.0
+      "*": 5.0
     },
     "QuarryResourceModifiers": {
-      "*": 10.0
+      "*": 5.0
     },
     "SurveyResourceModifiers": {
-      "*": 10.0
+      "*": 5.0
     }
   },
   "Settings": {
