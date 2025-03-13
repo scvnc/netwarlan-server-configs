@@ -30,27 +30,22 @@
     "ExcavatorResourceTickRate": 3.0,
     "ExcavatorTimeForFullResources": 120.0,
     "GatherDispenserModifiers": {
-      "Corpse": 3.0,
-      "Ore": 3.0,
-      "Tree": 3.0
+      "Tree": 10.0,
+      "Ore": 10.0,
+      "Flesh": 10.0
     },
     "GatherResourceModifiers": {
-      "Cloth": 3.0,
-      "Stones": 3.0,
-      "Wood": 3.5,
-      "Sulfur Ore": 4.5
+      "*": 10.0
     },
     "MiningQuarryResourceTickRate": 5.0,
     "PickupResourceModifiers": {
-      "Stones": 3.0,
-      "Wood": 3.0
+      "*": 10.0
     },
     "QuarryResourceModifiers": {
-      "Stones": 3.0,
-      "Sulfur Ore": 6.0
+      "*": 10.0
     },
     "SurveyResourceModifiers": {
-      "Sulfur Ore": 3.5
+      "*": 10.0
     }
   },
   "Settings": {
